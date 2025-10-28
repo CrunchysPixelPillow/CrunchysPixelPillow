@@ -1,7 +1,7 @@
 # Helo Im Crunchy
 
 ## Learning
-![Vala Badge](https://img.shields.io/badge/Vala-7239B3?logo=vala&logoColor=fff&style=flat)
+
 
 ## Languages
 ![Haxe Badge](https://img.shields.io/badge/Haxe-EA8220?logo=haxe&logoColor=fff&style=plastic)
@@ -15,6 +15,7 @@
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=flat-square)
 ![Firefox Browser Badge](https://img.shields.io/badge/Firefox%20Browser-FF7139?logo=firefoxbrowser&logoColor=fff&style=flat-square)
 ![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=flat-square)
+![Tor Browser Badge](https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=flat-square)
 
 ## Hardwere
 ![MSI Badge](https://img.shields.io/badge/MSI-F00?logo=msi&logoColor=fff&style=flat-square)
