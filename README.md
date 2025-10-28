@@ -21,4 +21,4 @@
 ![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=flat-square)
 
 ## Media
-https://www.reddit.com/user/CrunchyTheCoder/ ![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)
+![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)(**https://www.reddit.com/user/CrunchyTheCoder/**)
