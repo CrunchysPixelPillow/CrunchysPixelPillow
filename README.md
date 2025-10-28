@@ -1,1 +1,1 @@
-![Banner](Images/Haxe.png)
+![HaxeToolkit](Icons/Haxe.png)
