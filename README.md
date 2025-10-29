@@ -28,11 +28,11 @@
 ![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=flat-square)
 ![Tor Browser Badge](https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=flat-square)
 
-## Hardwere
+## Hardware
 ![MSI Badge](https://img.shields.io/badge/MSI-F00?logo=msi&logoColor=fff&style=flat-square)
 ![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=flat-square)
 
-## Softwere
+## Software
 ![Zoom Badge](https://img.shields.io/badge/Zoom-0B5CFF?logo=zoom&logoColor=fff&style=flat-square)
 
 ## Media
