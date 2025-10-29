@@ -37,5 +37,7 @@
 
 ## Media
 ![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)**https://www.reddit.com/user/CrunchyTheCoder/**
+
 ![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=flat)**https://crunchyspixelpillow.itch.io/**
+
 ![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat)**https://steamcommunity.com/profiles/76561199562907420/**
