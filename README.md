@@ -12,7 +12,7 @@
   *
 
 ## Learning
-![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=fff&style=flat)
+![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat)
 
 ## Languages
 ![Haxe Badge](https://img.shields.io/badge/Haxe-EA8220?logo=haxe&logoColor=fff&style=plastic)
