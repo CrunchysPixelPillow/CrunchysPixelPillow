@@ -1,7 +1,18 @@
 # Helo Im Crunchy
 
-## Learning
 
+## Details
+* Friends
+  *
+  *
+  *
+* Games
+  * ![osu! Badge](https://img.shields.io/badge/osu!-F6A?logo=osu&logoColor=fff&style=plastic)
+  *
+  *
+
+## Learning
+![Haskell Badge](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=fff&style=flat)
 
 ## Languages
 ![Haxe Badge](https://img.shields.io/badge/Haxe-EA8220?logo=haxe&logoColor=fff&style=plastic)
@@ -21,5 +32,10 @@
 ![MSI Badge](https://img.shields.io/badge/MSI-F00?logo=msi&logoColor=fff&style=flat-square)
 ![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=flat-square)
 
+## Softwere
+![Zoom Badge](https://img.shields.io/badge/Zoom-0B5CFF?logo=zoom&logoColor=fff&style=flat-square)
+
 ## Media
-![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)(**https://www.reddit.com/user/CrunchyTheCoder/**)
+![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)**https://www.reddit.com/user/CrunchyTheCoder/**
+![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=flat)**https://crunchyspixelpillow.itch.io/**
+![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat)**https://steamcommunity.com/profiles/76561199562907420/**
