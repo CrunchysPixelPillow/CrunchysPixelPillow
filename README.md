@@ -3,7 +3,7 @@
 
 ## Details
 * Friends
-  * [![Badge Text](AyushMishra)](https://github.com/ayushmishra34er)
+  * [![Mishra.png](AyushMishra)](https://github.com/ayushmishra34er)
   *
   *
 * Games
