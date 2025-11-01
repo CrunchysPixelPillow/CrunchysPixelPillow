@@ -3,7 +3,7 @@
 
 ## Details
 * Friends
-  *
+  * https://github.com/ayushmishra34er
   *
   *
 * Games
