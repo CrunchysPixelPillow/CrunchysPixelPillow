@@ -3,7 +3,7 @@
 
 ## Details
 * Friends
-  * ![Static Badge](https://img.shields.io/badge/%22Ayushmishra%22?style=social)https://github.com/ayushmishra34er
+  * ![Static Badge](https://img.shields.io/badge/"image?"%22?style=social)https://github.com/ayushmishra34er
   *
   *
 * Games
