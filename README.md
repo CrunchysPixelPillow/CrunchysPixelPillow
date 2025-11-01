@@ -3,7 +3,7 @@
 
 ## Details
 * Friends
-  * [![Mishra](AyushMishra.png)](https://github.com/ayushmishra34er)
+  * [![](Mishra.png)](https://github.com/ayushmishra34er)
 
   *
   *
