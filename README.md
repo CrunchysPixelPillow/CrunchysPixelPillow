@@ -4,7 +4,7 @@
 ## Details
 * Friends
 * <a href="https://github.com/ayushmishra34er">
-  <img src="Mishra.png" alt="Mishra" width="150"/>
+  <img src="Mishra.png" alt="Mishra" width="50"/>
 </a>
   * [![](Mishra.png)](https://github.com/ayushmishra34er)
 
