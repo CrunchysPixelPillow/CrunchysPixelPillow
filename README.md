@@ -3,7 +3,8 @@
 
 ## Details
 * Friends
-  * [![Mishra.png](AyushMishra)](https://github.com/ayushmishra34er)
+  * [![Mishra](AyushMishra.png)](https://github.com/ayushmishra34er)
+
   *
   *
 * Games
