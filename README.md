@@ -3,8 +3,8 @@
 
 ## Details
 * Friends
-* [![Mishra]<a href="https://github.com/ayushmishra34er">
-  <img src="Mishra.png" alt="Mishra" width="50"/>
+* <a href="https://github.com/ayushmishra34er">
+  <img src="Mishra.png" alt="Mishra" width="50"/> Mishra
 </a>
   * [![Mishra]
 
