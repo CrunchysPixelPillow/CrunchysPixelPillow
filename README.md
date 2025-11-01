@@ -37,10 +37,10 @@
 ![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=flat-square)
 
 ## Software
-![Zoom Badge](https://img.shields.io/badge/Zoom-0B5CFF?logo=zoom&logoColor=fff&style=flat-square)
-![CurseForge Badge](https://img.shields.io/badge/CurseForge-F16436?logo=curseforge&logoColor=fff&style=flat-square)
-![Krita Badge](https://img.shields.io/badge/Krita-3BABFF?logo=krita&logoColor=fff&style=flat-square)
-![Replit Badge](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=flat-square)
+![Zoom Badge](https://img.shields.io/badge/Zoom-0B5CFF?logo=zoom&logoColor=fff&style=flat-square)   
+![CurseForge Badge](https://img.shields.io/badge/CurseForge-F16436?logo=curseforge&logoColor=fff&style=flat-square)   
+![Krita Badge](https://img.shields.io/badge/Krita-3BABFF?logo=krita&logoColor=fff&style=flat-square)   
+![Replit Badge](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=flat-square)   
 
 
 ## Media
