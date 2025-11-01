@@ -30,6 +30,7 @@
 ![Firefox Browser Badge](https://img.shields.io/badge/Firefox%20Browser-FF7139?logo=firefoxbrowser&logoColor=fff&style=flat-square)
 ![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=flat-square)
 ![Tor Browser Badge](https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=flat-square)
+![WebStorm Badge](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=flat-square)
 
 ## Hardware
 ![MSI Badge](https://img.shields.io/badge/MSI-F00?logo=msi&logoColor=fff&style=flat-square)
@@ -37,6 +38,10 @@
 
 ## Software
 ![Zoom Badge](https://img.shields.io/badge/Zoom-0B5CFF?logo=zoom&logoColor=fff&style=flat-square)
+![CurseForge Badge](https://img.shields.io/badge/CurseForge-F16436?logo=curseforge&logoColor=fff&style=flat-square)
+![Krita Badge](https://img.shields.io/badge/Krita-3BABFF?logo=krita&logoColor=fff&style=flat-square)
+![Replit Badge](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=flat-square)
+
 
 ## Media
 ![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)**https://www.reddit.com/user/CrunchyTheCoder/**
