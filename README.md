@@ -3,11 +3,7 @@
 
 ## Details
 * Friends
-* <a href="https://github.com/ayushmishra34er">
-  <img src="Mishra.png" alt="Mishra" width="50"/> Mishra
-</a>
-  * [![Mishra]
-
+  * [![Mishra](AyushMishra.png)](https://github.com/ayushmishra34er)
   *
   *
 * Games
