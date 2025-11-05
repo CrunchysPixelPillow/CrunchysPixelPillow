@@ -15,10 +15,10 @@
 ![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat)
 ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![alt text](HaxeLogo.png "Title")
 
 ## Languages
 ![Haxe Badge](https://img.shields.io/badge/Haxe-EA8220?logo=haxe&logoColor=fff&style=plastic)
+![alt text](HaxeLogo.png "Title")
 ![Rust Badge](https://img.shields.io/badge/Rust-006?logo=rust&logoColor=fff&style=plastic)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
 ![D Badge](https://img.shields.io/badge/D-B03931?logo=d&logoColor=fff&style=plastic)
