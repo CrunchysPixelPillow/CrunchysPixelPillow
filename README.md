@@ -12,8 +12,9 @@
   *
 
 ## Learning
- ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=flat)
-      ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=flat)
+ ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 
 ## Languages
 ![Haxe Badge](https://img.shields.io/badge/Haxe-EA8220?logo=haxe&logoColor=fff&style=plastic)
