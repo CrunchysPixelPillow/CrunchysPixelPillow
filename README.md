@@ -1,51 +1,85 @@
-# Helo Im Crunchy
+<h1 align="center">Hey 👋What's Up?</h1>
 
+###
 
-## Details
-* Friends
-  * [![Mishra](AyushMishra.png)](https://github.com/ayushmishra34er)
-  *
-  *
-* Games
-  * ![osu! Badge](https://img.shields.io/badge/osu!-F6A?logo=osu&logoColor=fff&style=plastic)
-  *
-  *
+<div align="center">
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI4OTU1MTEsIm5iZiI6MTc2Mjg5NTIxMSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjItZTBkMjk5ZjItNzY3Yy00YzIxLWJkNDktOTBmMmExOWYxYTc4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTExVDIxMDY1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzOWQ1NTg3YjMzYjJjZWVkN2RiZDkxZTE3ZDJjODU2NzAyMDJhNTczNWQ0YzYzN2VjNGIzNjI1YzBlZTlkMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nrV6NEjO3EDqrc5UK1dIFY7BzfscUbQ70RPAxek10kA"  />
+</div>
 
-## Learning
-![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=flat)
- ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+###
 
-## Languages
-![Haxe Badge](https://img.shields.io/badge/Haxe-EA8220?logo=haxe&logoColor=fff&style=plastic)
-![Rust Badge](https://img.shields.io/badge/Rust-006?logo=rust&logoColor=fff&style=plastic)
-![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
-![D Badge](https://img.shields.io/badge/D-B03931?logo=d&logoColor=fff&style=plastic)
-## Frameworks
+<p align="left">Bio</p>
 
+###
 
-## Environments
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-986?logo=intellijidea&logoColor=fff&style=flat-square)
-![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=flat-square)
-![Firefox Browser Badge](https://img.shields.io/badge/Firefox%20Browser-FF7139?logo=firefoxbrowser&logoColor=fff&style=flat-square)
-![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?logo=duckduckgo&logoColor=fff&style=flat-square)
-![Tor Browser Badge](https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=flat-square)
-![WebStorm Badge](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=flat-square)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=haxe" height="60" alt="haxe logo"  />
+</div>
 
-## Hardware
-![MSI Badge](https://img.shields.io/badge/MSI-F00?logo=msi&logoColor=fff&style=flat-square)
-![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=flat-square)
+###
 
-## Software
-![Zoom Badge](https://img.shields.io/badge/Zoom-0B5CFF?logo=zoom&logoColor=fff&style=flat-square)   
-![Krita Badge](https://img.shields.io/badge/Krita-3BABFF?logo=krita&logoColor=fff&style=flat-square)   
-![Replit Badge](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=flat-square)   
-![CurseForge Badge](https://img.shields.io/badge/CurseForge-F16436?logo=curseforge&logoColor=fff&style=flat-square)   
+<br clear="both">
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
+</div>
 
-## Media
-![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)**https://www.reddit.com/user/CrunchyTheCoder/**
+###
 
-![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=flat)**https://crunchyspixelpillow.itch.io/**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
+</div>
 
-![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat)**https://steamcommunity.com/profiles/76561199562907420/**
+###
+
+<h1 align="center">Known Languages</h1>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white&style=for-the-badge" height="40" alt="scala logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CrunchysPixelPillow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="75" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=CrunchysPixelPillow&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=CrunchysPixelPillow&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrunchysPixelPillow/CrunchysPixelPillow/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrunchysPixelPillow/CrunchysPixelPillow/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CrunchysPixelPillow/CrunchysPixelPillow/output/pacman-contribution-graph.svg">
+</picture>
+
+###
