@@ -89,24 +89,24 @@
 ## 
     class Bio {
     public static final Crunchy :{} = {
-        static final username : String = "Crunchy";
-        static var role : String = "Systems Framework Developer";
-        static var age : Int32 = 0;
+        static final username : String = "Crunchy"
+        static var role : String = "Systems Framework Developer"
+        static var age : Int32 = 0
 
-        final friends :{} {"
+        final friends :{} {
             Mishra: https://github.com/ayushmishra34er
-        "; }
+        }
 
-        final style :{} = {"
+        final style :{} = {
         Prefered Naming: snakecase
         Prefered Typing: static typing
         Prefered Syntax: objectorient
         Prefered Brackets: Broken
         function PreferedBrackets() {
             trace('BracketStyle = Broken') }
-        "; }
+        }
 
-        var languages :{} = {"
+        var languages :{} = {
         === Main ===
         [1] Haxe
         [2] C
@@ -114,4 +114,4 @@
         [4] Rust
         === Old/Known ===
         Csharp C++ Scala Python Html Kotlin Markdown Arduino
-        "; }
+        }
