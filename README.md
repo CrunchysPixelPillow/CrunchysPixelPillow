@@ -2,7 +2,8 @@
 
 ###
 
-<p align="center">class Bio {
+### ''' B 
+    class Bio {
     public static final Crunchy :{} = {
         static final username : String = "Crunchy";
         static var role : String = "Systems Framework Developer";
@@ -30,8 +31,7 @@
         === Old/Known ===
         Csharp C++ Scala Python Html Kotlin Markdown Arduino
         "; }
-    }
-}</p>
+'''
 
 ###
 
