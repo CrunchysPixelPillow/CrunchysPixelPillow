@@ -8,14 +8,6 @@
                 \____|_|   \__,_|_| |_|\___|_| |_|\__, |___/_|   |_/_/\_\___|_|_|   |_|_|_|\___/ \_/\_/  
                                                   |___/                                                  
 ```
-<h1 align="center">Helo World</h1>
-
-###
-
-<p align="center">bio here</p>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
