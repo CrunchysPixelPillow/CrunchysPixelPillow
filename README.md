@@ -14,6 +14,8 @@
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=haxe" height="60" alt="haxe logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=zig" height="60" alt="zig logo"  />
 </div>
 
 ###
@@ -22,24 +24,27 @@
   <img src="https://skillicons.dev/icons?i=scala" height="60" alt="scala logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="60" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
   <img width="0" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="60" alt="clion logo"  />
   <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="60" alt="webstorm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="60" alt="rider logo"  />
   <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="60" alt="firefox logo"  />
-  <img width="0" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="60" alt="replit logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="60" alt="yarn logo"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
@@ -83,6 +88,8 @@
   <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="40" alt="cmake logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" height="40" alt="julia logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Processing Foundation-006699?logo=processingfoundation&logoColor=white&style=for-the-badge" height="40" alt="processing logo"  />
 </div>
 
 ###
@@ -93,15 +100,18 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Alpine Linux-0D597F?logo=alpinelinux&logoColor=white&style=for-the-badge" height="40" alt="alpinelinux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CrunchysPixelPillow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=CrunchysPixelPillow&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CrunchysPixelPillow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/CrunchysPixelPillow/CrunchysPixelPillow/output/snake.svg" alt="Snake animation" />
 
 ###
