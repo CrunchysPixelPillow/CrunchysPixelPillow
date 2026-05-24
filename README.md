@@ -8,6 +8,35 @@
                 \____|_|   \__,_|_| |_|\___|_| |_|\__, |___/_|   |_/_/\_\___|_|_|   |_|_|_|\___/ \_/\_/  
                                                   |___/                                                  
 ```
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Eletrical%20Engineering%20Student%3B%20System%20Design%20Developer%3BNever%20Learning" alt="Typing SVG" />
+</div>
+
+```Rust
+use std::fs;
+use std::fs::write;
+
+fn main () {
+ let mut profile : String="
+    Username : Crunchyu Parasitic
+
+    Operating system : Bedrock Linux    
+    Package_Manager : Pacman Dnf XBPS
+    Desktop_Envirment : XFCE4
+
+    Shell : Fish Bash 
+    Favorite_commands : please(sudo) !! exit
+    Favorite_tools : Eza Glow Bottom Cfdisk
+    
+
+ 
+  ";
+}
+```
+
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
